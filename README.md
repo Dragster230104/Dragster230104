@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dragster230104" alt="dragster230104" /></a> </p>
 
-- 🔭 I’m currently working on **Building redis.**
+- 🔭 I’m currently working on **Building a fully functional Search Engine.**
 
 - 🌱 I’m currently learning **Solidity, C++, Data Structures.**
 
